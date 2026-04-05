@@ -1,4 +1,4 @@
-package src.sn.coumba.l2gl.app.model;
+package sn.coumba.l2gl.app.model;
 
 @FunctionalInterface
 public interface Test<T> {

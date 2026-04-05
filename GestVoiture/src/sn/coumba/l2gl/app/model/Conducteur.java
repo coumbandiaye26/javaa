@@ -1,4 +1,4 @@
-package src.sn.coumba.l2gl.app.model;
+package sn.coumba.l2gl.app.model;
 
 public class Conducteur {
     private String nom;
